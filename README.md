@@ -12,6 +12,5 @@ Attendance Recording
 Attendance updating 
 
 
-[Watch the LinkedIn video]([https://www.linkedin.com/posts/prince-onuekwa-b93025257_facerecognition-innovation-tech-activity-7177791427588804608-atas?utm_source=share&utm_medium=member_desktop)
 
 [Watch the linkedin Video] (https://www.linkedin.com/posts/prince-onuekwa-b93025257_facerecognition-innovation-tech-activity-7177791427588804608-atas?utm_source=share&utm_medium=member_desktop)
