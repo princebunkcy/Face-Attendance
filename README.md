@@ -10,3 +10,6 @@ Enrollment
 Recognition
 Attendance Recording 
 Attendance updating 
+[![Video Demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7177791413567291393" height="675" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
